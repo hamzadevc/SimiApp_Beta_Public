@@ -1,6 +1,6 @@
-# simi_01
+# SimiApp Beta 
 
-A new Flutter project.
+Build in Flutter for IOS/Android
 
 ## Getting Started
 
